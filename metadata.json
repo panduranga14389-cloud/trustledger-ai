@@ -1,0 +1,6 @@
+{
+  "name": "TrustLedger AI",
+  "description": "Smart Financial Records. Trusted Decisions. AI-assisted financial record management, duplicate detection, and invoice OCR for MSMEs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
